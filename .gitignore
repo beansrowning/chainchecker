@@ -1,21 +1,30 @@
+# R Files
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Output
 *.png
 *.pdf
 *.html
-logs.csv
-analyse_logs.Rmd
-combined_template.csv
 README.Rmd
-logs_080119.csv
+analyse_logs.Rmd
+
 Call on EVD chains of transmission.docx
-logs_121218.csv
-logs_230119.csv
 *.docx
 *.ppt
 *.pptx
+
+# Data
+*.csv
+logs.csv
+combined_template.csv
+logs_080119.csv
+logs_121218.csv
+logs_230119.csv
+
+# Temp
 logs*
 www/
 tmp_files
